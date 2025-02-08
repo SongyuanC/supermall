@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.8.2">
+  <diagram name="第 1 页" id="BgHgfFOR0TcAN0gtvEgy">
+    <mxGraphModel dx="983" dy="515" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sZCmiMikkW0IH5D_Caig-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZCmiMikkW0IH5D_Caig-1" target="sZCmiMikkW0IH5D_Caig-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZCmiMikkW0IH5D_Caig-1" value="小明" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="370" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sZCmiMikkW0IH5D_Caig-2" value="湖北" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="370" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sZCmiMikkW0IH5D_Caig-4" value="出生地" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sZCmiMikkW0IH5D_Caig-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZCmiMikkW0IH5D_Caig-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sZCmiMikkW0IH5D_Caig-5" value="湖北" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sZCmiMikkW0IH5D_Caig-7" value="中国" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="440" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sZCmiMikkW0IH5D_Caig-8" value="省份" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="430" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sZCmiMikkW0IH5D_Caig-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="sZCmiMikkW0IH5D_Caig-10" target="sZCmiMikkW0IH5D_Caig-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZCmiMikkW0IH5D_Caig-10" value="小明" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="510" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sZCmiMikkW0IH5D_Caig-11" value="中国" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="510" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sZCmiMikkW0IH5D_Caig-12" value="国籍" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="500" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
