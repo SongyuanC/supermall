@@ -69,6 +69,12 @@
             <mxPoint x="306" y="597" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="B7OAirJVVPKBtSYi-Okf-17" value="规则抽取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="542" y="604" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="B7OAirJVVPKBtSYi-Okf-18" value="连接预测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="542" y="663" width="66" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
