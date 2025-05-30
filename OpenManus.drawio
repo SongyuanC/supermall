@@ -1,9 +1,72 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.3">
   <diagram name="第 1 页" id="XrAzQeYm1N9VuY8X3JVy">
-    <mxGraphModel>
+    <mxGraphModel dx="978" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NaGLtLPMVxLZHlq2lp-Q-1" target="NaGLtLPMVxLZHlq2lp-Q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-1" value="用户输入请求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NaGLtLPMVxLZHlq2lp-Q-2" target="NaGLtLPMVxLZHlq2lp-Q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-2" value="创建Manus agent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NaGLtLPMVxLZHlq2lp-Q-3" target="NaGLtLPMVxLZHlq2lp-Q-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-3" value="调用agent.run()" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-4" value="进入执行循环" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-5" value="执行step方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="510" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-6" value="think方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="610" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-7" value="向LLM发送请求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="700" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-8" value="获取工具调用决策" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="790" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-9" value="记录LLM响应" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="890" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-10" value="有工具调用？" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1000" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-11" value="act方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="106" y="1140" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-12" value="调用工具" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="106" y="1220" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-13" value="执行具体工具调用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="106" y="1300" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-14" value="记录工具执行结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="106" y="1390" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-15" value="返回执行结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="106" y="1480" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-16" value="返回思考结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-18" value="检查是否完成任务" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="291" y="1560" width="158" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NaGLtLPMVxLZHlq2lp-Q-19" value="执行结束" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1694" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
