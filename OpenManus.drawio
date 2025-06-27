@@ -184,10 +184,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mNW_9nSvEDfQOvlSOp_V-1" value="使用ICD10查询" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="894" y="111" width="163" height="60" as="geometry" />
+          <mxGeometry x="894" y="186" width="163" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mNW_9nSvEDfQOvlSOp_V-3" value="有工具调用？" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="888.25" y="287" width="174.5" height="100" as="geometry" />
+        <mxCell id="mNW_9nSvEDfQOvlSOp_V-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mNW_9nSvEDfQOvlSOp_V-3" target="mNW_9nSvEDfQOvlSOp_V-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNW_9nSvEDfQOvlSOp_V-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mNW_9nSvEDfQOvlSOp_V-3" target="mNW_9nSvEDfQOvlSOp_V-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNW_9nSvEDfQOvlSOp_V-3" value="查询成功？" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="888.25" y="287" width="174.5" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="mNW_9nSvEDfQOvlSOp_V-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mNW_9nSvEDfQOvlSOp_V-5" target="mNW_9nSvEDfQOvlSOp_V-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNW_9nSvEDfQOvlSOp_V-5" value="查询ICD10到11的映射表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1169" y="298.5" width="178" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mNW_9nSvEDfQOvlSOp_V-6" value="映射到ICD11编码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1167.5" y="440" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mNW_9nSvEDfQOvlSOp_V-7" value="调用ICD11查询API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="886.5" y="440" width="178" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mNW_9nSvEDfQOvlSOp_V-11" value="查询成功？" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="888.25" y="570" width="174.5" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="mNW_9nSvEDfQOvlSOp_V-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="975.16" y="500" as="sourcePoint" />
+            <mxPoint x="975.16" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNW_9nSvEDfQOvlSOp_V-13" value="调用ICD11查询API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1144" y="585" width="178" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mNW_9nSvEDfQOvlSOp_V-14" value="向量检索" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="888.25" y="700" width="178" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
