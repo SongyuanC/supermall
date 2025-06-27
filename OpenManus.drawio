@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.6">
   <diagram name="第 1 页" id="XrAzQeYm1N9VuY8X3JVy">
-    <mxGraphModel dx="1418" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1668" dy="885" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,6 +207,12 @@
         <mxCell id="mNW_9nSvEDfQOvlSOp_V-7" value="调用ICD11查询API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="886.5" y="440" width="178" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mNW_9nSvEDfQOvlSOp_V-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mNW_9nSvEDfQOvlSOp_V-11" target="mNW_9nSvEDfQOvlSOp_V-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNW_9nSvEDfQOvlSOp_V-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mNW_9nSvEDfQOvlSOp_V-11" target="mNW_9nSvEDfQOvlSOp_V-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mNW_9nSvEDfQOvlSOp_V-11" value="查询成功？" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="888.25" y="570" width="174.5" height="83" as="geometry" />
         </mxCell>
@@ -217,10 +223,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mNW_9nSvEDfQOvlSOp_V-13" value="调用ICD11查询API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1144" y="585" width="178" height="60" as="geometry" />
+          <mxGeometry x="1169" y="581.5" width="184.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mNW_9nSvEDfQOvlSOp_V-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mNW_9nSvEDfQOvlSOp_V-14" target="mNW_9nSvEDfQOvlSOp_V-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mNW_9nSvEDfQOvlSOp_V-14" value="向量检索" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="888.25" y="700" width="178" height="60" as="geometry" />
+          <mxGeometry x="886.5" y="702" width="178" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mNW_9nSvEDfQOvlSOp_V-17" value="LLM / Agent进行校验" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="886.5" y="811" width="178" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
