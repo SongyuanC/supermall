@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.0">
   <diagram name="第 1 页" id="qu2dCd6QFwl8Ro5ZA1Uv">
-    <mxGraphModel dx="2026" dy="1129" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2464" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,7 +130,7 @@
           <mxGeometry height="30" width="210" x="785" y="940" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fontStyle=0" value="&lt;span&gt;MLP&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="970" y="170" as="geometry" />
+          <mxGeometry height="60" width="120" x="981" y="170" as="geometry" />
         </mxCell>
         <mxCell id="sSy5xGxNivQdl3euTZHL-2" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mjpcnek7Ti5HyrbpO8wV-70">
           <mxGeometry relative="1" as="geometry" />
@@ -226,6 +226,21 @@
         </mxCell>
         <mxCell id="sSy5xGxNivQdl3euTZHL-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="2025" y="388" as="geometry" />
+        </mxCell>
+        <mxCell id="sSy5xGxNivQdl3euTZHL-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="归一化" vertex="1">
+          <mxGeometry height="26" width="54" x="912" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="sSy5xGxNivQdl3euTZHL-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="归一化层" vertex="1">
+          <mxGeometry height="26" width="66" x="916" y="159" as="geometry" />
+        </mxCell>
+        <mxCell id="sSy5xGxNivQdl3euTZHL-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=18;fontColor=default;" value="基本信息" vertex="1">
+          <mxGeometry height="34" width="90" x="-55" y="279" as="geometry" />
+        </mxCell>
+        <mxCell id="sSy5xGxNivQdl3euTZHL-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=18;fontColor=default;" value="血常规检验结果" vertex="1">
+          <mxGeometry height="34" width="144" x="-98" y="558" as="geometry" />
+        </mxCell>
+        <mxCell id="sSy5xGxNivQdl3euTZHL-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=18;fontColor=default;" value="凝血功能检验结果" vertex="1">
+          <mxGeometry height="34" width="162" x="-116" y="837" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
