@@ -1,44 +1,189 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="28.2.8">
   <diagram name="第 1 页" id="qu2dCd6QFwl8Ro5ZA1Uv">
-    <mxGraphModel dx="1418" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="1080" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mjpcnek7Ti5HyrbpO8wV-1" value="年龄：68&lt;div&gt;性别：男&lt;/div&gt;&lt;div&gt;诊断：消化道出血&amp;nbsp;&lt;/div&gt;&lt;div&gt;科室：消化内科&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;用血日期：2024/12/17&lt;/font&gt;&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;历史输血次数：7&lt;/div&gt;&lt;div&gt;上次输血时间：2024/12/16&lt;/div&gt;&lt;div&gt;手术代码：43.9900x004&lt;/div&gt;&lt;div&gt;手术等级：四级&lt;/div&gt;&lt;div&gt;手术开始时间：2024/12/19 11:00:00&lt;/div&gt;&lt;div&gt;手术结束时间：2024/12/19 13:00:00&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="110" width="220" height="200" as="geometry" />
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-1" value="年龄：68&lt;div&gt;性别：男&lt;/div&gt;&lt;div&gt;诊断：消化道出血&amp;nbsp;&lt;/div&gt;&lt;div&gt;科室：消化内科&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;用血日期：2024/12/17&lt;/font&gt;&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;历史输血次数：1&lt;/div&gt;&lt;div&gt;上次输血时间：2024/12/16&lt;/div&gt;&lt;div&gt;手术代码：43.9900x004&lt;/div&gt;&lt;div&gt;手术等级：四级&lt;/div&gt;&lt;div&gt;手术开始时间：2024/12/19 11:00:00&lt;/div&gt;&lt;div&gt;手术结束时间：2024/12/19 13:00:00&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="270" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="mjpcnek7Ti5HyrbpO8wV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1020" width="120" height="60" as="geometry" />
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-3" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&quot;血常规检验时间&quot;: 2024/12/16,&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;白细胞计数&quot;: &quot;2.59&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;红细胞计数&quot;: &quot;3.52&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血红蛋白&quot;: &quot;109&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;红细胞压积&quot;: 0.33,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均红细胞体积&quot;: &quot;94&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均红细胞血红蛋白量&quot;: &quot;31&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均红细胞血红蛋白浓度&quot;: &quot;329&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血小板计数&quot;: &quot;143&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血小板压积&quot;: &quot;0.15&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均血小板体积&quot;: &quot;10.4&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血小板体积分布宽度&quot;: &quot;11.3&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;红细胞分布宽度&quot;: &quot;21.1&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="414.5" width="270" height="285.5" as="geometry" />
         </mxCell>
-        <mxCell id="mjpcnek7Ti5HyrbpO8wV-3" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&quot;血常规检验时间&quot;: 2024/12/16,&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;白细胞计数&quot;: &quot;2.59&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;红细胞计数&quot;: &quot;3.52&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血红蛋白&quot;: &quot;109&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;红细胞压积&quot;: 0.33,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均红细胞体积&quot;: &quot;94&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均红细胞血红蛋白量&quot;: &quot;31&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均红细胞血红蛋白浓度&quot;: &quot;329&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血小板计数&quot;: &quot;143&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血小板压积&quot;: &quot;0.15&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均血小板体积&quot;: &quot;10.4&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血小板体积分布宽度&quot;: &quot;11.3&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;红细胞分布宽度&quot;: &quot;21.1&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="340" width="220" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="mjpcnek7Ti5HyrbpO8wV-4" value="&lt;div&gt;&quot;凝血检验时间&quot;:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2024/12/16&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;凝血酶原时间&quot;: &quot;14&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;活化部分凝血活酶时间&quot;: &quot;37&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;纤维蛋白原&quot;: &quot;2.7&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;凝血酶时间&quot;: &quot;19.2&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;硫酸鱼精蛋白副凝固时间&quot;: null,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;D_二聚体&quot;: null,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;纤维蛋白原降解产物&quot;: null,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;凝血酶原活动度&quot;: &quot;71&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;凝血酶原时间比值&quot;: &quot;1.3&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;国际标准化比值_INR&quot;: &quot;1.29&quot;,&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="580" width="220" height="180" as="geometry" />
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-4" value="&lt;div&gt;&quot;凝血检验时间&quot;:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2024/12/16&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;凝血酶原时间&quot;: &quot;14&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;活化部分凝血活酶时间&quot;: &quot;37&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;纤维蛋白原&quot;: &quot;2.7&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;凝血酶时间&quot;: &quot;19.2&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;硫酸鱼精蛋白副凝固时间&quot;: null,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;D_二聚体&quot;: null,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;纤维蛋白原降解产物&quot;: null,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;凝血酶原活动度&quot;: &quot;71&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;凝血酶原时间比值&quot;: &quot;1.3&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;国际标准化比值_INR&quot;: &quot;1.29&quot;,&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="720" width="270" height="260" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-6" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;用血日期：&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;2024/12/17&lt;/font&gt;&lt;/b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&quot;冰冻解冻去甘油红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;单采血小板&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;冷沉淀凝血因子&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;去白细胞悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;洗涤红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血浆&quot;: 400&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="770" width="170" height="150" as="geometry" />
+          <mxGeometry x="600" y="1190" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-12" value="&lt;div&gt;用血日期：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2024/12/18&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&quot;冰冻解冻去甘油红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;单采血小板&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;冷沉淀凝血因子&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;去白细胞悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;洗涤红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血浆&quot;: 400&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="770" width="170" height="150" as="geometry" />
+          <mxGeometry x="840" y="1190" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-13" value="&lt;div&gt;用血日期：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2024/12/20&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&quot;冰冻解冻去甘油红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;单采血小板&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;冷沉淀凝血因子&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;去白细胞悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;洗涤红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血浆&quot;: 400&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="770" width="170" height="150" as="geometry" />
+          <mxGeometry x="1080" y="1190" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-14" value="&lt;div&gt;用血日期：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2024/12/04&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&quot;冰冻解冻去甘油红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;单采血小板&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;冷沉淀凝血因子&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;去白细胞悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;洗涤红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血浆&quot;: 400&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="770" width="170" height="150" as="geometry" />
+          <mxGeometry x="360" y="1190" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-15" value="&lt;div&gt;用血日期：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2024/12/27&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&quot;冰冻解冻去甘油红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;单采血小板&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;冷沉淀凝血因子&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;去白细胞悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;洗涤红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血浆&quot;: 400&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="770" width="170" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="mjpcnek7Ti5HyrbpO8wV-16" value="&lt;div&gt;&quot;血常规检验时间&quot;: 2024/12/16,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;白细胞计数&quot;: &quot;2.59&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;红细胞计数&quot;: &quot;3.52&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血红蛋白&quot;: &quot;109&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;红细胞压积&quot;: 0.33,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均红细胞体积&quot;: &quot;94&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均红细胞血红蛋白量&quot;: &quot;31&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均红细胞血红蛋白浓度&quot;: &quot;329&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血小板计数&quot;: &quot;143&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血小板压积&quot;: &quot;0.15&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均血小板体积&quot;: &quot;10.4&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血小板体积分布宽度&quot;: &quot;11.3&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;红细胞分布宽度&quot;: &quot;21.1&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="360" width="220" height="210" as="geometry" />
+          <mxGeometry x="1330" y="1190" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CC0000;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="570" y="730" width="710" height="230" as="geometry" />
+          <mxGeometry x="580" y="1150" width="710" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="mjpcnek7Ti5HyrbpO8wV-18" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&quot;血常规检验时间&quot;: 2024/12/16,&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;白细胞计数&quot;: &quot;2.59&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;红细胞计数&quot;: &quot;3.52&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血红蛋白&quot;: &quot;109&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;红细胞压积&quot;: 0.33,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均红细胞体积&quot;: &quot;94&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均红细胞血红蛋白量&quot;: &quot;31&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均红细胞血红蛋白浓度&quot;: &quot;329&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血小板计数&quot;: &quot;143&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血小板压积&quot;: &quot;0.15&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均血小板体积&quot;: &quot;10.4&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血小板体积分布宽度&quot;: &quot;11.3&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;红细胞分布宽度&quot;: &quot;21.1&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;上次&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="340" width="220" height="230" as="geometry" />
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="510" />
+              <mxPoint x="750" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-18" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&quot;血常规检验时间&quot;: 2024/12/16,&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;白细胞计数&quot;: &quot;2.59&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;红细胞计数&quot;: &quot;3.52&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血红蛋白&quot;: &quot;109&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;红细胞压积&quot;: 0.33,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均红细胞体积&quot;: &quot;94&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均红细胞血红蛋白量&quot;: &quot;31&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均红细胞血红蛋白浓度&quot;: &quot;329&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血小板计数&quot;: &quot;143&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血小板压积&quot;: &quot;0.15&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;平均血小板体积&quot;: &quot;10.4&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血小板体积分布宽度&quot;: &quot;11.3&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;红细胞分布宽度&quot;: &quot;21.1&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(204, 0, 0), rgb(255, 255, 255));&quot;&gt;上次用血日期差：12&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;历史输血次数：1&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;用血月份：12&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="330" width="270" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-19" target="mjpcnek7Ti5HyrbpO8wV-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-19" value="&lt;div&gt;&quot;凝血检验时间&quot;:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2024/12/16&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;凝血酶原时间&quot;: &quot;14&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;活化部分凝血活酶时间&quot;: &quot;37&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;纤维蛋白原&quot;: &quot;2.7&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;凝血酶时间&quot;: &quot;19.2&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;硫酸鱼精蛋白副凝固时间&quot;: null,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;D_二聚体&quot;: null,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;纤维蛋白原降解产物&quot;: null,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;凝血酶原活动度&quot;: &quot;71&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;凝血酶原时间比值&quot;: &quot;1.3&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;国际标准化比值_INR&quot;: &quot;1.29&quot;,&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(204, 0, 0), rgb(255, 255, 255));&quot;&gt;上次用血日期差：13&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="730" width="280" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-20" target="mjpcnek7Ti5HyrbpO8wV-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-20" value="年龄：68&lt;div&gt;性别：男&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;诊断分类：&amp;nbsp;消化系统疾病&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;科室分类：消化内科&lt;/font&gt;&lt;/div&gt;&lt;div&gt;手术代码：43&lt;/div&gt;&lt;div&gt;手术等级：4&lt;/div&gt;&lt;div&gt;手术时间：2&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-21" value="消化道出血" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-24" value="68" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="870" y="560" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-26" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="870" y="600" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-27" value="23" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="870" y="640" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-28" value="42" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="870" y="680" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-29" value="7.1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="870" y="760" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-30" value="1.3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="870" y="800" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-31" value="1.29" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="870" y="840" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-32" value="12" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="870" y="880" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-33" value="....." style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="870" y="720" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="870" y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="870" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="870" y="100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="870" y="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="870" y="220" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="870" y="260" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="870" y="300" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="870" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-42" target="mjpcnek7Ti5HyrbpO8wV-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="870" y="180" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-43" value="嵌入模型" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="480" y="25" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-48" value="1024维度疾病嵌入向量" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="790" y="384.5" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-49" value="35维度向量" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="785" y="940" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-50" value="&lt;span&gt;MLP&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="970" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1123" y="38" width="40" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-50" target="mjpcnek7Ti5HyrbpO8wV-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-64" value="512维" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1038" y="370" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1123" y="558" width="40" height="348" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-66" value="512维" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="933" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="mjpcnek7Ti5HyrbpO8wV-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="725" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-68" value="&lt;span&gt;MLP&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="970" y="695" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1125" y="725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-72" target="mjpcnek7Ti5HyrbpO8wV-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1374" y="1265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-72" value="&lt;span&gt;1D ResNet&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1314" y="617" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-73" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1230" y="161" width="40" height="658" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="mjpcnek7Ti5HyrbpO8wV-73">
+          <mxGeometry width="40" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="mjpcnek7Ti5HyrbpO8wV-73">
+          <mxGeometry y="310" width="40" height="348" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-70" target="mjpcnek7Ti5HyrbpO8wV-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-77" value="1024维" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="840" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
