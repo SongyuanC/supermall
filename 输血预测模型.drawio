@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="28.2.8">
   <diagram name="第 1 页" id="qu2dCd6QFwl8Ro5ZA1Uv">
-    <mxGraphModel dx="1418" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="1080" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CC0000;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="580" y="1094" width="710" height="286" as="geometry" />
+          <mxGeometry x="504.5" y="1160" width="710" height="286" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-1" value="年龄：68&lt;div&gt;性别：男&lt;/div&gt;&lt;div&gt;诊断：消化道出血&amp;nbsp;&lt;/div&gt;&lt;div&gt;科室：消化内科&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;用血日期：2024/12/17&lt;/font&gt;&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;历史输血次数：1&lt;/div&gt;&lt;div&gt;上次输血时间：2024/12/16&lt;/div&gt;&lt;div&gt;手术代码：43.9900x004&lt;/div&gt;&lt;div&gt;手术等级：四级&lt;/div&gt;&lt;div&gt;手术开始时间：2024/12/19 11:00:00&lt;/div&gt;&lt;div&gt;手术结束时间：2024/12/19 13:00:00&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="60" y="110" width="270" height="260" as="geometry" />
@@ -17,19 +17,19 @@
           <mxGeometry x="60" y="720" width="270" height="260" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-6" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;用血日期：&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;2024/12/17&lt;/font&gt;&lt;/b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&quot;冰冻解冻去甘油红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;单采血小板&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;冷沉淀凝血因子&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;去白细胞悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;洗涤红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血浆&quot;: 400&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="596" y="1147.5" width="204" height="194" as="geometry" />
+          <mxGeometry x="506" y="1216.5" width="204" height="194" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-12" value="&lt;div&gt;用血日期：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2024/12/18&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&quot;冰冻解冻去甘油红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;单采血小板&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;冷沉淀凝血因子&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;去白细胞悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;洗涤红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血浆&quot;: 400&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="819" y="1149" width="191" height="191" as="geometry" />
+          <mxGeometry x="729" y="1218" width="191" height="191" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-13" value="&lt;div&gt;用血日期：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2024/12/20&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&quot;冰冻解冻去甘油红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;单采血小板&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;冷沉淀凝血因子&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;去白细胞悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;洗涤红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血浆&quot;: 400&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="1151" width="215" height="189" as="geometry" />
+          <mxGeometry x="945" y="1220" width="215" height="189" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-14" value="&lt;div&gt;用血日期：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2024/12/04&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&quot;冰冻解冻去甘油红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;单采血小板&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;冷沉淀凝血因子&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;去白细胞悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;洗涤红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血浆&quot;: 400&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1149" width="240" height="191" as="geometry" />
+          <mxGeometry x="200" y="1218" width="240" height="191" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-15" value="&lt;div&gt;用血日期：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2024/12/27&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&quot;冰冻解冻去甘油红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;单采血小板&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;冷沉淀凝血因子&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;去白细胞悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;洗涤红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;悬浮红细胞&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;血浆&quot;: 400&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1301" y="1152" width="199" height="188" as="geometry" />
+          <mxGeometry x="1250" y="1232" width="199" height="188" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-18">
           <mxGeometry relative="1" as="geometry">
@@ -145,7 +145,7 @@
           <mxGeometry x="1123" y="558" width="40" height="348" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-66" value="512维" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="933" width="210" height="30" as="geometry" />
+          <mxGeometry x="1036" y="910" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="mjpcnek7Ti5HyrbpO8wV-68">
           <mxGeometry relative="1" as="geometry">
@@ -160,11 +160,9 @@
             <mxPoint x="1125" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mjpcnek7Ti5HyrbpO8wV-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-72" target="mjpcnek7Ti5HyrbpO8wV-17">
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-72">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1374" y="1265" />
-            </Array>
+            <mxPoint x="1374" y="915.7142857142858" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-72" value="&lt;span&gt;1D ResNet&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fontStyle=0" vertex="1" parent="1">
@@ -183,7 +181,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mjpcnek7Ti5HyrbpO8wV-77" value="1024维" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="840" width="210" height="30" as="geometry" />
+          <mxGeometry x="1145" y="826" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1239" y="1006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1374" y="1002.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1510" y="1006.3333333333333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-80" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1214.5" y="920" width="319" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-81" value="1024维" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1479" y="924" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mjpcnek7Ti5HyrbpO8wV-83" target="mjpcnek7Ti5HyrbpO8wV-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="628" y="1134" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-83" value="第一次输血" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1187" y="1004" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-85" value="后续四次输血" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1322.5" y="1004" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mjpcnek7Ti5HyrbpO8wV-87" value="输血次数" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1458" y="1002" width="103" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
